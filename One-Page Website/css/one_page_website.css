@@ -1,0 +1,21 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+}
+
+form {
+    align-items: center;
+}
+
+
+
+input {
+    margin: 9px 60px 9px 60px;
+    width: 50%;
+    border: firebrick dashed;
+    border-radius: 8px;
+    box-align: center;
+}
+
+
