@@ -1,0 +1,21 @@
+div {
+  width: 300px;
+  height: 100px;
+  background-color: yellow;
+  border: 1px solid black;
+}
+
+div#myDiv {
+  -ms-transform: rotate(20deg); 
+  transform: rotate(20deg); 
+}
+
+div#myDiv2 {
+  -ms-transform: rotate(60deg); 
+  transform: rotate(60deg); 
+}
+
+div#myDiv3 {
+  -ms-transform: rotate(90deg); 
+  transform: rotate(90deg); 
+}
