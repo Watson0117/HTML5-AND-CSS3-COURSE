@@ -5,4 +5,4 @@ Projects
 1. Space station
     in the space project folder.
 2. Academy cinimas project
-    In the bootstrap folder
+    In the bootstrap folder, a project that uses bootstrap for styling
