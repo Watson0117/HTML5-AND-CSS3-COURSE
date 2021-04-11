@@ -1,0 +1,11 @@
+.hidden {
+  opacity: 0;
+}
+
+.visible {
+  opacity: 1;
+  transition: opacity 1s ease-out;
+}
+html {
+  background-color: rgb(209, 188, 188);
+}
